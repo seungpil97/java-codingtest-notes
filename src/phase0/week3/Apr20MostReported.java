@@ -1,4 +1,4 @@
-package week6;
+package phase0.week3;
 
 import java.io.BufferedReader;
 import java.io.IOException;
